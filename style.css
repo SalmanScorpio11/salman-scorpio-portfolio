@@ -17,7 +17,7 @@ section {
 
 .half-width {
     width: 50%;
-    padding-left: 10px;
+    padding-left: 20px;
 
 }
 
@@ -37,6 +37,7 @@ section {
 
 .top-baner {
     background-image: url(images/background.png);
-    padding-right: 40%;
+    padding-right: 20%;
+    background-image: no-repeat;
 
 }
