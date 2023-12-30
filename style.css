@@ -1,0 +1,42 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.color-it {
+    color: chocolate;
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 10px;
+
+}
+
+.half-width img {
+    width: 100%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: rgb(255, 0, 0);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: whitesmoke;
+    font-weight: 700;
+
+}
+
+.top-baner {
+    background-image: url(images/background.png);
+    padding-right: 40%;
+
+}
