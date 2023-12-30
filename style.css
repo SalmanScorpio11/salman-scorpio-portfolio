@@ -13,6 +13,7 @@ h1 {
 
 section {
     display: flex;
+    margin-bottom: 100px;
 }
 
 .half-width {
@@ -40,4 +41,11 @@ section {
     padding-right: 20%;
     background-image: no-repeat;
 
+}
+
+.read-me {
+    background-image: url(images/backgrounds1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 300px;
 }
